@@ -71,8 +71,8 @@ echo ""
 echo "***********************************************************************"
 echo "**                                                                    *"
 echo "**                       RevcamV2   : $VERSION                               *"
-echo "**                       Uploaded by: EMIL_NABIL                      *"
-echo "**                                                                    *"
+echo "   UPLOADED BY  >>>>   EMIL_NABIL "   
+sleep 4;                          
 echo "***********************************************************************"
 echo ""
 
