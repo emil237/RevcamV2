@@ -12,7 +12,7 @@
 TMPDIR='/tmp'
 VERSION='2'
 PACKAGE='enigma2-plugin-softcams-revcam'
-MY_URL='https://raw.githubusercontent.com/emil237/RevcamV2/main/RevcamV2/'
+MY_URL='https://raw.githubusercontent.com/emil237/RevcamV2/main/'
 
 ####################
 #  Image Checking  #
