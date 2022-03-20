@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL RevcamV2
 # ###########################################
 #
-# Command: wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/RevcamV2/installer.sh -qO - | /bin/sh
+# Command: wget https://raw.githubusercontent.com/emil237/RevcamV2/main/installer.sh -qO - | /bin/sh
 #
 # ###########################################
 
@@ -12,7 +12,7 @@
 TMPDIR='/tmp'
 VERSION='2'
 PACKAGE='enigma2-plugin-softcams-revcam'
-MY_URL='https://raw.githubusercontent.com/MOHAMED19OS/Download/main/RevcamV2/'
+MY_URL='https://raw.githubusercontent.com/emil237/RevcamV2/main/RevcamV2/'
 
 ####################
 #  Image Checking  #
@@ -71,9 +71,7 @@ echo ""
 echo "***********************************************************************"
 echo "**                                                                    *"
 echo "**                       RevcamV2   : $VERSION                               *"
-echo "**                       Uploaded by: MOHAMED_OS                      *"
-echo "**                       Develop by : OTEX                            *"
-echo "** Support    : https://www.facebook.com/groups/298510744799488/about *"
+echo "**                       Uploaded by: EMIL_NABIL                      *"
 echo "**                                                                    *"
 echo "***********************************************************************"
 echo ""
